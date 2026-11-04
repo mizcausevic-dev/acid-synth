@@ -1,0 +1,30 @@
+{
+  "label": "preview, not a master.",
+  "preview_path": "preview/acid-synth-simple-synth-preview.mp3",
+  "preview_sha256": "c5bb810d150632aaec85b76c0b12850d36aad080203c3e9374a0a8ec20079233",
+  "source_midi_path": "midi/ac01-copper-cell/ac01-copper-cell-combined.mid",
+  "source_midi_sha256": "7de84707d11dda44c7ca18a1e5536d4009ec31f30bd1135154019348467ecf62",
+  "renderer": "release-simple-synth 1.0.0",
+  "renderer_configuration": {
+    "sample_rate": 44100,
+    "source_tracks": [
+      "chord_pulse",
+      "counter_texture",
+      "drums",
+      "principal_motif",
+      "sub_bass",
+      "vocal_like_synth"
+    ],
+    "processing": "per-voice envelopes only, followed by MP3 encoding"
+  },
+  "selection": {
+    "study": "ac01",
+    "start_seconds": 0,
+    "end_seconds": 59.077
+  },
+  "measurement": {
+    "sample_peak": 0.147167,
+    "not_lufs_or_true_peak": true
+  },
+  "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."
+}

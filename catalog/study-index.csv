@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+ac01,Copper Cell,pack-local equal-tempered pitch collection,C,130,4/4,480,32,61440,midi/ac01-copper-cell/ac01-copper-cell-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ac02,Resonant Path,pack-local equal-tempered pitch collection,D#,130,4/4,480,32,61440,midi/ac02-resonant-path/ac02-resonant-path-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ac03,Folded Wire,pack-local equal-tempered pitch collection,F#,130,4/4,480,32,61440,midi/ac03-folded-wire/ac03-folded-wire-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+ac04,Open Circuit,pack-local equal-tempered pitch collection,C#,130,4/4,480,32,61440,midi/ac04-open-circuit/ac04-open-circuit-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
