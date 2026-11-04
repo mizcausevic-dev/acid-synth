@@ -1,0 +1,26 @@
+{
+  "title": "Acid Synth",
+  "study": "ac01",
+  "bpm": 130,
+  "source_audio": "preview/acid-synth-simple-synth-preview.mp3",
+  "source_audio_sha256": "c5bb810d150632aaec85b76c0b12850d36aad080203c3e9374a0a8ec20079233",
+  "source_midi": "midi/ac01-copper-cell/ac01-copper-cell-combined.mid",
+  "source_midi_sha256": "7de84707d11dda44c7ca18a1e5536d4009ec31f30bd1135154019348467ecf62",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "cce8c9cd140bf53cc31166fc857a76908704382bd78a85b75f156a58fe90e64e",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "fa8d609f4ecd859346e09968898bb840296ff9713b22b4ade54e802b2a56b3a2",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "2c0bf63d49dcf361298c63f7a089db9f2ec7a2e1b09065f84eba6d5444eae18f",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
